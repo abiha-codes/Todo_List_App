@@ -9,8 +9,6 @@ A modern, responsive, and user-friendly **To-Do List Web Application** built usi
 
 ## 📸 Project Screenshot
 
-## 📸 Project Screenshot
-
 ![To-Do List App](./ToDo%20List/images/Picture.png)
 
 ## ✨ Features
